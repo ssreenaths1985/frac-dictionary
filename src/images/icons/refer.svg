@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>refer</title>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Frac-dictionary" transform="translate(-1044.000000, -1060.000000)" fill="#000000">
+            <g id="refer" transform="translate(1044.000000, 1060.000000)">
+                <rect id="Rectangle" fill-opacity="0.04" x="0" y="0" width="64" height="64" rx="8"></rect>
+                <g id="hashtag-symbol" transform="translate(21.000000, 20.000000)" fill-opacity="0.4">
+                    <path d="M22,9 L22,6 L18.0682857,6 L18.854,0 L15.7111429,0 L14.9254286,6 L8.64128571,6 L9.427,0 L6.28414286,0 L5.49842857,6 L0,6 L0,9 L5.10557143,9 L4.32142857,15 L0,15 L0,18 L3.92857143,18 L3.14285714,24 L6.28571429,24 L7.07142857,18 L13.3571429,18 L12.5698571,24 L15.7142857,24 L16.5,18 L22,18 L22,15 L16.8928571,15 L17.6754286,9 L22,9 Z M13.75,15 L7.46428571,15 L8.24842857,9 L14.5325714,9 L13.75,15 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

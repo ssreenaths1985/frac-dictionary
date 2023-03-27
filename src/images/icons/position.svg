@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/position</title>
+    <g id="Icons/position" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="bg" fill-opacity="0.04" fill="#000000" x="0" y="0" width="24" height="24" rx="2"></rect>
+        <path d="M12,12 C15.2383969,12 17.8775718,14.5655749 17.9958615,17.7750617 L18,18 L6,18 C6,14.6862915 8.6862915,12 12,12 Z M12,6 C13.7843046,6 15.2307692,7.34314575 15.2307692,9 C15.2307692,10.6568542 13.7843046,12 12,12 C10.2156954,12 8.76923077,10.6568542 8.76923077,9 C8.76923077,7.34314575 10.2156954,6 12,6 Z" id="Combined-Shape" fill="#0074B6"></path>
+    </g>
+</svg>
